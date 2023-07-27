@@ -1,4 +1,4 @@
-# Real Estate NFT DApp
+# Retoki Real Estate NFT & Market Place
 
 ## Technology Stack & Tools
 
