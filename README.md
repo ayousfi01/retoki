@@ -12,7 +12,6 @@
 - Install [NodeJS](https://nodejs.org/en/)
 
 ## Setting Up
-### 1. Clone the Repository
 
 ### 2. Install Dependencies:
 `$ npm install`
